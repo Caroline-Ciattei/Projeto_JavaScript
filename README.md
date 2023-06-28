@@ -1,2 +1,2 @@
 # Projeto_JavaScript
-Projeto feito no final do curso Java Script e HTML no Alura.
+Projeto feito no final do curso JavaScript e HTML:pratique lógica com desenhos, animações e um jogo no Alura.
